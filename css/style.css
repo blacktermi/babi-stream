@@ -7,3 +7,9 @@ h1 {
     font-family: 'Ultra', serif;
     color: aliceblue;
 }
+.but {
+    border-radius: 50px 50px 50px 50px;
+}
+#check {
+    color: rgb(9, 224, 27);
+}
