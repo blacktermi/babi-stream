@@ -13,3 +13,9 @@ h1 {
 #check {
     color: rgb(9, 224, 27);
 }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
